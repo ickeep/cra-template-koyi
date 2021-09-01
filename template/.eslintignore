@@ -1,0 +1,4 @@
+/dist
+/craco.*.js
+/jest.*.js
+/dwt.*.js
